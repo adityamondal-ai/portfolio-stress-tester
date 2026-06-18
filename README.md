@@ -26,10 +26,10 @@ portfolio-stress-testing-engine/
 │   └── Portfolio_Stress_Testing.ipynb
 │
 ├── images/
-│   ├── drawdown.png
-│   ├── var_distribution.png
-│   ├── stress_comparison.png
-│   └── waterfall_chart.png
+│   ├── max_drawdown.png
+│   ├── PORTFOLIO__RETURN.png
+│   ├── risk metrics.png
+│   └── waterfallgraph.png
 │
 ├── README.md
 │
